@@ -1,9 +1,7 @@
-favicon: null
 name: Dean
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9908701
+typography_spectrum: 0.6503759
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8029001
-  brandStrength: 0.8319011
-  lightness: 0.2593985
   brandColors:
     - '#060501'
     - '#FFFFFF'
     - '#9B9199'
     - '#FF9100'
     - '#FFDE88'
-  rhythmicContrast: 0.7534909
-typography_spectrum: 0.6503759
-layout_spectrum: 0.9908701
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.8319011
+  lightness: 0.2593985
+  saturation: 0.8029001
+  rhythmicContrast: 1
+purpose: []
