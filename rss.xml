@@ -2,14 +2,26 @@
     <channel>
         <title><![CDATA[Dean]]></title>
         <description><![CDATA[Dean]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dean/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 01:36:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:34:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dean/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It was a
+bright California Saturday morning. The stadium was relatively peaceful, with
+only a few people milling about, cleaning and prepping for the next show. 
+A mere 12 hours earlier the world’s biggest band performed an incredible set in
+front of 40,000 admiring fans.  I was in the audience, enjoying every
+moment and singing along to every song.</p>]]></description>
+            <link>https://thegrid.ai/dean/de91a951-bbb7-4ca8-b5d8-1e16875d44db/index.html</link>
+            <guid isPermaLink="false">de91a951-bbb7-4ca8-b5d8-1e16875d44db</guid>
+            <pubDate>Fri, 04 Mar 2016 19:32:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a15b0160-2f3b-4795-bae6-aa66b3b0bce5.png">]]></description>
-            <link>undefinedd89cd19e-e98c-4515-bc3d-b0ea70db77fe/index.html</link>
+            <link>https://thegrid.ai/dean/d89cd19e-e98c-4515-bc3d-b0ea70db77fe/index.html</link>
             <guid isPermaLink="false">d89cd19e-e98c-4515-bc3d-b0ea70db77fe</guid>
             <pubDate>Tue, 16 Feb 2016 01:23:28 GMT</pubDate>
         </item>
