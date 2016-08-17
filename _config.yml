@@ -1,7 +1,7 @@
 name: Dean
 favicon: null
-layout_spectrum: 0.74086
-typography_spectrum: 0.31918
+layout_spectrum: 1
+typography_spectrum: 0.40142
 collections:
   - index:
       path: /
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0c0d07'
-    - '#ffffff'
-    - '#443629'
-    - '#886e57'
-    - '#e3c3ac'
+    - '#202020'
+    - '#4f4f4f'
+    - '#747474'
+    - '#adadad'
+    - '#cfcfcf'
   brandStrength: 0.25
   lightness: 0.375
   saturation: 0
